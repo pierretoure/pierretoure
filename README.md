@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @pierretoure
-- 🌱 I’m currently building <a href="https://www.combak.co">Combak</a>
+- 🌱 I’m currently building <a href="https://www.combak.co" rel="noopener">Combak</a>
 - 📫 You can reach me at pierre@combak.co
