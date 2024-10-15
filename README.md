@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @pierretoure
-- 🌱 I’m currently building https://www.combak.co
+- 🌱 I’m currently building [Combak](https://www.combak.co)
 - 📫 You can reach me at pierre@combak.co
