@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @pierretoure
-- 🌱 I’m currently building <a href="https://my-typo.com">My Typo</a>
-- 📫 You can reach me at <a href="mailto:pierre@my-typo.com">pierre@my-typo.com</a>
+- 🌱 I’m currently building <a href="https://larry-agent.com">Larry</a>
+- 📫 You can reach me at <a href="mailto:pierre@larry-agent.com">pierre@larry-agent.com</a>
