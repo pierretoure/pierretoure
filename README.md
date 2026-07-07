@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @pierretoure
-- 🌱 I’m currently building <a href="https://larry-agent.com">Larry</a>
+- 🌱 I’m currently building <a href="https://larry-agent.com">Larry</a> (larry-agent.com)
 - 📫 You can reach me at <a href="mailto:pierre@larry-agent.com">pierre@larry-agent.com</a>
